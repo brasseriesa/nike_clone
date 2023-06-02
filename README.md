@@ -11,4 +11,4 @@ Contributions to the Nike Clone Project are welcome! If you have any ideas, sugg
 # License
 The Nike Clone Project is open-source and released under the MIT License. You can freely use, modify, and distribute the codebase in accordance with the terms and conditions of the license.
 # Contact
-If you have any questions or inquiries about the Nike Clone Project, please contact us at project@example.com.
+If you have any questions or inquiries about the Nike Clone Project, please contact us at kledjalloshi10@gmail.com.
